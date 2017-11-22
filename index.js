@@ -12,6 +12,6 @@ function destructivelyRemoveLastDriver(name) {
   drivers.pop("Ralph");
 }
 
-function destructivelyFirstDriver(name) {
+function destructivelyRemoveFirstDriver(name) {
   drivers.shift("Milo");
 }
